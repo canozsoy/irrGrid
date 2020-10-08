@@ -1,6 +1,6 @@
 # irrGrid
 
-IrrGrid, grid an irregular shaped bathymetry. Both input bathymetry and blank shape should be
+IrrGrid.m, grid an irregular shaped bathymetry. Both input bathymetry and blank shape should be
 given by the user as coordinates. First input is 'noktalar.txt' and the second input in 'blankArea.bln'. 
 Format required to these files can be found in the files with the same name.
 
