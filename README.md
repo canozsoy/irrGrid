@@ -1,8 +1,8 @@
 # irrGrid
 
 IrrGrid, grid an irregular shaped bathymetry. Both input bathymetry and blank shape should be
-given by the user as x,y coordinates. This can be done via Surfer or any
-other program or even matlab.
+given by the user as coordinates. First input is 'noktalar.txt' and the second input in 'blankArea.bln'. 
+Format required to these files can be found in the files with the same name.
 
 Please check required input fields for your needs.
 
